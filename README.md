@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Abhishek Shukla
-- 👀 I’m interested in cloud computing
-- 🌱 I’m currently learning Java, python,Asp.net
+- 🌱 I’m currently working on php projects
 - 💞️ I’m looking to collaborate on Cloud computing projects
 - 📫 How to reach me abhishektechin25@gmail.com
 
